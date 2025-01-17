@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Bhandwalkar</h1>
-<h3 align="center">A passionate frontend developer from India form the market</h3>
+
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px"/> &nbsp; <span> A passionate Data Scientiest from India </span> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="35px" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
